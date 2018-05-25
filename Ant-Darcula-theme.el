@@ -70,7 +70,7 @@
    `(region ((,class (:background ,fg1 :foreground ,bg1))))
    `(highlight ((,class (:foreground ,fg3 :background ,bg3))))
    `(hl-line ((,class (:background  ,bg2))))
-   `(fringe ((,class (:background ,bg2 :foreground ,fg4))))
+   `(fringe ((,class (:background ,bg1 :foreground ,fg4))))
    `(cursor ((,class (:background ,bg3))))
    `(show-paren-match-face ((,class (:background ,warning))))
    `(isearch ((,class (:bold t :foreground ,warning :background ,bg3))))
